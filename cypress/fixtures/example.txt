@@ -1,0 +1,2 @@
+
+cy.get('#uploadPicture').attachFile('example.txt');
